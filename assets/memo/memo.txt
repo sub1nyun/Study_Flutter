@@ -3,3 +3,5 @@ flutter IOS 시뮬레이터(애뮬) 띄우는 방법
 팔렛트(Shift + command + p)창에서
 flutter: Launch Emulator -> IOS로 빌드 후
 Terminal flutter run을 입력하면 완료
+
+깃허브 연동 완료 테스트하기
